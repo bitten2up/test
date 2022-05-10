@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    Uri="https://litten2up.github.io/test/test.appinstaller"
+    Version="1.2.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+    <MainBundle
+        Name="retroarch"
+        Publisher="CN=Contoso"
+        Version="2.23.12.43"
+        ProcessorArchitecture="x64"
+        Uri="https://buildbot.libretro.com/stable/1.10.3/windows-msvc2019-uwp/x64/RetroArch-msvc2019-UWP_x64.msixbundle" />
+</AppInstaller>
